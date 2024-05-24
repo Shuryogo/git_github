@@ -13,6 +13,3 @@ This is ***Italic***
 ```py
 value1 = input("enter a value: ")
 ```
-
-
-This is new line
